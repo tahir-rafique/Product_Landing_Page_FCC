@@ -1,2 +1,2 @@
 # Live Preview :
-https://tahir-rafique.github.io/Product-Landing-Page-freeCodeCamp/
+https://tahir-rafique.github.io/Product_Landing_Page_freeCodeCamp/
